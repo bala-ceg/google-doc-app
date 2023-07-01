@@ -5,7 +5,7 @@ from llama_index import GPTVectorStoreIndex, download_loader
 GoogleDocsReader = download_loader('GoogleDocsReader')
 
 # Define the GDoc IDs
-gdoc_ids = ['1wf-y2pd9C878Oh-FmLH7Q_BQkljdm6TQal-c1pUfrec']
+gdoc_ids = ['1ip1WRzegUGx-zrZNRMFHtemXZxm2zH5WkItLKOVV9og']
 
 # Initialize the loader and load the documents
 loader = GoogleDocsReader()
